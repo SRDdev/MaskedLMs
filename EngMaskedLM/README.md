@@ -4,17 +4,11 @@
 <img alt="Huggingface" src="https://img.shields.io/badge/%F0%9F%A4%97-Huggingface-yellow">
 </a>
 
-This is a BERT model trained for Masked Language Modeling for Hinglish Data.
-
-Hinglish is a term used to describe the hybrid language spoken in India, which combines elements of Hindi and English. It is commonly used in informal conversations and in media such as Bollywood films
+This is Transformer Model trained for Masked Language Modeling for small English Data.
 
 ### Dataset
-Hinglish-Top [Dataset](https://huggingface.co/datasets/WillHeld/hinglish_top) columns
-- en_query
-- cs_query
-- en_parse 
-- cs_parse 
-- domain 
+Hinglish-Top [Dataset](https://huggingface.co/datasets/WillHeld/hinglish_top)
+
 
 ### Training
 |Epochs|Train Loss|

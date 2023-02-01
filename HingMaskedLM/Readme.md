@@ -1,14 +1,9 @@
 
 ### HingMaskedLM
-This is a BERT model trained for Masked Language Modeling for Hinglish Data.
+Hinglish MaskedLM is a variant of MaskedLM for the Indian English dialect, also known as Hinglish. It is trained on a corpus of text written in Hinglish, with the goal of improving the performance of NLP models for this dialect
 
 ### Dataset
-Hinglish-Top [Dataset](https://huggingface.co/datasets/WillHeld/hinglish_top) columns
-- en_query
-- cs_query
-- en_parse 
-- cs_parse 
-- domain 
+Hinglish-Top [Dataset](https://huggingface.co/datasets/WillHeld/hinglish_top)
 
 ### Training
 |Epoch|Loss|
